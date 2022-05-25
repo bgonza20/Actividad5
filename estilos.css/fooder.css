@@ -1,0 +1,26 @@
+footer{
+    width: 100% !important;
+}
+
+.redessociales{
+    text-align: center !important;
+    justify-content: space-around !important;
+    padding-top: 1px !important;
+    color: black !important;
+    font-size: 15px !important;
+    background-color: brown !important;
+}
+.ajusteicono{
+    display: inline-flex !important;
+
+}
+.textofooder {
+    padding-top: 1px !important;
+    width: 100% !important;
+    font-family: cursive !important;
+    color: black !important;
+    font-size: 15px !important;
+    height: 60px !important;
+    text-align: center !important;
+    background-color: brown !important;
+}

@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box !important;
+}
+
+body {
+    margin: 0 !important;
+    background-color: rgb(117, 149, 196) !important;
+}
+
+.titulo3 {
+    margin: 20px !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    color: black !important;
+    font-size: 45px !important;
+    padding: 20px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.parrafo4 {
+    display: flex !important;
+    font-size: 18px !important;
+    justify-content: center !important;
+    color: rgb(5, 4, 9) !important;
+    text-align: center !important; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important; 
+}
+
+.barra {
+    background: rgb(117, 149, 196) !important;
+    color: rgb(5, 4, 9) !important;
+    font-family: cursive !important;
+}
+
+.row {
+    align-items: center !important;
+    text-align: center !important;
+    justify-content: space-around !important;
+    font-size: 15px !important;
+    letter-spacing: 3px !important;
+    margin: 40px !important;
+    padding-top: 10px !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    color: rgb(5, 4, 9) !important;
+    background-color: rgb(117, 149, 196) !important;
+    justify-content: space-between !important;
+    justify-content: space-around !important;
+}
